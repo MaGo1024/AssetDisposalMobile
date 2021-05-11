@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A marketplace for disposing non valuable assets",
+    "githubUrl": "https://github.com/MaGo1024/AssetDisposalMobile"
   }
 }
